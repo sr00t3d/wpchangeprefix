@@ -15,7 +15,7 @@
 
 # --- CONFIGURATION ---
 VERSION='1.2.0'
-UPDATE_URL='https://raw.githubusercontent.com/percioandrade/wpchangeprefix/refs/heads/main/wpchange_prefix.sh'
+UPDATE_URL='https://raw.githubusercontent.com/percioandrade/wpchangeprefix/refs/heads/main/wp-change-prefix.sh'
 CONFIG_FILE="wp-config.php"
 # ---------------------
 
