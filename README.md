@@ -31,7 +31,7 @@ You can download the script directly to your WordPress root directory:
 
 ```bash
 wget https://raw.githubusercontent.com/percioandrade/wpchangeprefix/refs/heads/main/wp-change-prefix.sh
-chmod +x wpchange_prefix.sh
+chmod +x wp-change-prefix.sh
 ```
 
 ## ⚙️ Usage
@@ -41,7 +41,7 @@ chmod +x wpchange_prefix.sh
 **2. Run the script:**
 
 ```bash
-./wpchange_prefix.sh
+./wp-change-prefix.sh
 ```
 
 **3. Follow the interactive prompts:**
@@ -65,7 +65,7 @@ Flag             Description
 # Run without checking for updates and skipping backup
 
 ```bash
-./wpchange_prefix.sh --skip --noversion
+./wp-change-prefix.sh --skip --noversion
 ```
 
 🛠️ How it Works
