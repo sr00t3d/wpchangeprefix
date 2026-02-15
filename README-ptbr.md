@@ -85,9 +85,9 @@ Flag             Descrição
 
 ## 📚 Tutorial Detalhado
 
-Para um guia completo, passo a passo, sobre como importar arquivos gerados para o Thunderbird e solucionar problemas comuns de migração, confira meu artigo completo:
+Para um guia completo, passo a passo, confira meu artigo completo:
 
-👉 [**Criar popups modais no WHMCS**](https://perciocastelo.com.br/blog/change-wordpress-database-prefix.html)
+👉 [**Mudar prefixo do banco de dados WordPress**](https://perciocastelo.com.br/blog/change-wordpress-database-prefix.html)
 
 ## Licença 📄
 
